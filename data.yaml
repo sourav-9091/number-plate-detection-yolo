@@ -1,0 +1,6 @@
+train: C:\Users\soura\OneDrive\Desktop\Number Plate Detection\Automatic-Number-Plate-Recognition--ANPR-/dataset/train/images
+val: C:\Users\soura\OneDrive\Desktop\Number Plate Detection\Automatic-Number-Plate-Recognition--ANPR-/dataset/valid/images
+test: C:\Users\soura\OneDrive\Desktop\Number Plate Detection\Automatic-Number-Plate-Recognition--ANPR-/dataset/test/images
+
+nc: 1
+names: ['licence']
